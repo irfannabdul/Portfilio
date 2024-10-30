@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
     "build": "tailwindcss -i src/input.css -o dist/style.css"
   },
   "keywords": [],
